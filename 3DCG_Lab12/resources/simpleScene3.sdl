@@ -1,0 +1,11 @@
+background 1 1 1
+light -5 0 0  0.8 0.8 0.8
+ambient 0.05 0.25 0.05
+diffuse 0.2 1 0.2
+push
+difference
+sphere
+pop
+translate 0 1 0
+scale 1.3 1.3 1.3
+sphere
